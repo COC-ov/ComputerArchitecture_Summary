@@ -3,7 +3,7 @@
 
 BOOK: <https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=35333669>
 
-![Book Cover](bookCover.JPG)
+![Book Cover](img/bookCover.JPG)
 
 
 
